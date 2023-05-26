@@ -1,0 +1,7 @@
+{
+  "name": "WebpackApp",
+  "packageManager": "yarn@3.5.1",
+  "devDependencies": {
+    "webpack": "^5.84.1"
+  }
+}
